@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "name":"All",
+        "color":"#69BCFF"
+    
+    },
+    {
+        "id":1,
+        "name":"Home",
+        "color":"#FF9100"
+    
+    },
+    {
+        "id":2,
+        "name":"Work",
+        "color":"#5C6BC0"
+    
+    },
+    {
+        "id":3,
+        "name":"Personal",
+        "color":"#66BB6A"
+    
+    }
+]
